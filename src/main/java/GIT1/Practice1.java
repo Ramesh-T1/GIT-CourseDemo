@@ -28,6 +28,8 @@ public class Practice1 extends HttpServlet {
 		// TODO Auto-generated method stub
 		response.getWriter().println("<h1>User 2 accessed</h1>");
 		response.getWriter().println("<h1>User 2 made changes</h1>");
+		response.getWriter().println("<h1>User 1 accessed again</h1>");
+		response.getWriter().println("<h1>User 1 to update file again</h1>");
 	}
 
 }
