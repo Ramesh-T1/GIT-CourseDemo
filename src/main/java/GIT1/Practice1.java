@@ -30,8 +30,8 @@ public class Practice1 extends HttpServlet {
 		response.getWriter().println("<h1>User 2 made changes</h1>");
 		response.getWriter().println("<h1>User 1 accessed again</h1>");
 		response.getWriter().println("<h1>User 1 to update file again</h1>");
-		response.getWriter().println("<h1>User 1 accessed for develop branch changes</h1>");
-		response.getWriter().println("<h1>Changes for develop1 branch</h1>");
+		response.getWriter().println("<h1>User 1 accessed for develop (SEcond) branch changes</h1>");
+		response.getWriter().println("<h1>Changes for develop1 (SEcond) branch</h1>");
 	}
 	
 
